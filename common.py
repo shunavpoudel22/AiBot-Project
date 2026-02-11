@@ -1,3 +1,3 @@
-from modal import App
+import modal
 
-app = App(name="quillman")
+app = modal.App('testproject')
